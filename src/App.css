@@ -50,7 +50,7 @@ h2{
     color: #212529;
 }
   
-  .addBtn, .backbtn, .submitBtn, .updBtn{
+  .addBtn, .backbtn, .submitBtn, .updBtn, .backbtn{
     background-color: #2CC2E0;
     box-shadow: 0px 0px 10px 0px rgba(44, 194, 224, 0.5);
     border-radius: 50px 50px 50px 50px;
